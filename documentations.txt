@@ -1,0 +1,26 @@
+Bootstrap - designed and built by bootstrap team @ https://getbootstrap.com/docs/5.1/about/team/
+albertcht/invisible-recaptcha: @ https://github.com/albertcht/invisible-recaptcha 
+algolia/algoliasearch-client-php: @ https://github.com/algolia/algoliasearch-client-php
+algolia/scout-extended: @ https://github.com/algolia/scout-extended
+cviebrock/eloquent-sluggable: @ https://github.com/cviebrock/eloquent-sluggable
+fideloper/proxy: @ https://packagist.org/packages/fideloper/proxy
+gloudemans/shoppingcart: @ https://packagist.org/packages/gloudemans/shoppingcart
+intervention/image: @ https://github.com/Intervention/image
+laravel/framework: @ https://github.com/laravel/framework
+laravel/scout: @ https://github.com/laravel/scout
+laravel/socialite: @ https://github.com/laravel/socialite
+laravel/tinker: @ https://github.com/laravel/tinker
+nicolaslopezj/searchable: @ https://github.com/nicolaslopezj/searchable
+olimortimer/laravelshoppingcart: @ https://packagist.org/packages/olimortimer/laravelshoppingcart
+queueworker/sansdaemon: @ https://packagist.org/packages/queueworker/sansdaemon
+srmklive/paypal: @ https://github.com/srmklive/laravel-paypal
+tcg/voyager: @ https://github.com/the-control-group/voyager
+unicodeveloper/laravel-paystack: @ https://github.com/unicodeveloper/laravel-paystack
+
+beyondcode/laravel-dump-server: @ https://github.com/beyondcode/laravel-dump-server
+filp/whoops: @ https://github.com/filp/whoops
+fzaninotto/faker: @ https://github.com/fzaninotto/Faker
+mockery/mockery: @ https://github.com/mockery/mockery
+nunomaduro/collision: @ https://github.com/nunomaduro/collision
+phpunit/phpunit: @ https://packagist.org/packages/phpunit/phpunit
+starability-minified: @ https://github.com/LunarLogic/starability/tree/master/starability-minified
