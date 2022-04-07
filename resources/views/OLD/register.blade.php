@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="Ansonika">
     <title>Register | {{config('app.name')}}</title>
-
+	
     <!-- GOOGLE WEB FONT -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
 
@@ -76,7 +76,7 @@
 						</div>
 						<div class="form-group">
 							<label>Email address</label>
-							<input type="email" name="email" class="form-control {{ $errors->has('email') ? ' is-invalid' : '' }}"  name="email" value="{{ old('email') }}" required placeholder="Email address*">
+							<input type="email" name="email" class="form-control {{ $errors->has('email') ? ' is-invalid' : '' }}"  id="email" value="{{ old('email') }}" required placeholder="Email address*">
 							@if ($errors->has('email'))
                                 <span class="invalid-feedback" role="alert">
                                     <strong>{{ $errors->first('email') }}</strong>
@@ -92,7 +92,7 @@
                                 </span>
                             @endif
 						</div>
-
+						
 						<div class="form-group">
 							<label>Address</label>
 							<input type="text" name="address" class="form-control {{ $errors->has('address') ? ' is-invalid' : '' }}"  id="address" value="{{ old('address') }}" required placeholder="Address*">
@@ -111,7 +111,7 @@
                                             <option value="{{$state->name}}">{{$state->name}}</option>
                                         @endforeach
                                     </select>
-
+                                    
                                 </div>
 							</div>
 							<div class="col-md-6">
@@ -119,7 +119,7 @@
                                     <select id="lga" name="lga" class="form-control" required="">
                                         <option >Select Local Government</option>
                                     </select>
-
+                                    
                                 </div>
                                 {{-- {{ csrf_field() }} --}}
 							</div>
@@ -138,9 +138,9 @@
 							<input type="password" name="password_confirmation" class="form-control"  id="name"  required placeholder="Confirm Password*">
 						</div>
 						<input type="hidden" name="referrer" value="{{session()->get('refId') ? session()->get('refId') : 'NoRef' }}">
-
-
-
+						
+						
+						
 						<hr>
 						<div class="form-group">
 							<label class="container_check">Accept <a href="#0">Terms and conditions</a>

@@ -199,7 +199,7 @@
                             <div class="button block size-2 style-3">
                                 <span class="button-wrapper">
                                     <span class="icon"><img src="img/icon-4.png" alt=""></span>
-                                    <span class="text">Confirm and Pay</span>
+                                    <span class="text">Pay using Paystack</span>
                                 </span>
                                 <input type="submit"/>
                             </div>

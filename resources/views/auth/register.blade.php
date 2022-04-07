@@ -58,7 +58,7 @@
                         @endif
 
                         <div class="empty-space col-xs-b10 col-sm-b20"></div>
-                        <input class="simple-input" type="email" id="email" value="{{ old('email') }}" required placeholder="Email address*">
+                        <input class="simple-input" type="email" name="email" value="{{ old('email') }}" required placeholder="Email address*">
                         @if ($errors->has('email'))
                             <span class="invalid-feedback" role="alert">
                                 <strong>{{ $errors->first('email') }}</strong>
