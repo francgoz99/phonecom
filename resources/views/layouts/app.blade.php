@@ -16,7 +16,7 @@
                 <div class="content-margins">
                     <div class="row">
                         <div class="col-md-5 hidden-xs hidden-sm">
-                            <div class="entry"><b>contact us:</b> <a href="tel:+35235551238745">+3  (523) 555 123 8745</a></div>
+                            <div class="entry"><b>contact us:</b> <a href="tel:+2349080897373">+2349080897373</a></div>
                             {{-- <div class="entry"><b>email:</b> <a href="mailto:office@mobilephonestore.com">office@mobilephonestore.com</a></div> --}}
                         </div>
                         <div class="col-md-7 col-md-text-right">
@@ -267,16 +267,16 @@
                         <div class="col-sm-6 col-md-4">
                             <h6 class="h6 light">Contact Info</h6>
                             <div class="empty-space col-xs-b20"></div>
-                            <div class="footer-contact"><i class="fa fa-mobile" aria-hidden="true"></i> contact us: <a href="tel:+35235551238745">+3  (523) 555 123 8745</a></div>
+                            <div class="footer-contact"><i class="fa fa-mobile" aria-hidden="true"></i> contact us: <a href="tel:+2349080897373">+2349080897373</a></div>
                             <div class="footer-contact"><i class="fa fa-envelope-o" aria-hidden="true"></i> email: <a href="mailto:office@mobilephonestore.com">office@mobilephonestore.com</a></div>
-                            <div class="footer-contact"><i class="fa fa-map-marker" aria-hidden="true"></i> address: <a href="#">1st, new york, usa</a></div>
+                            <div class="footer-contact"><i class="fa fa-map-marker" aria-hidden="true"></i> address: <a href="#">3 ILUPEJU WAY, IDUMOTA, LAGOS, NIGERIA</a></div>
                         </div>
                     </div>
                 </div>
                 <div class="footer-bottom">
                     <div class="row">
                         <div class="col-lg-8 col-xs-text-center col-lg-text-left col-xs-b20 col-lg-b0">
-                            <div class="copyright">&copy; {{date('Y')}} All rights reserved. Development by <a href="www.webfluxy.com" target="_blank">Webfluxy</a></div>
+                            <div class="copyright">&copy; {{date('Y')}} All rights reserved. Development by Unit7 Communications</div>
                             <div class="follow">
                                 <a class="entry" href="#"><i class="fa fa-facebook"></i></a>
                                 <a class="entry" href="#"><i class="fa fa-twitter"></i></a>
