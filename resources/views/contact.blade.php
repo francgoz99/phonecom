@@ -60,7 +60,7 @@
                     <div class="icon-description-shortcode style-1">
                         <img class="icon" src="img/icon-25.png" alt="">
                         <div class="title h6">address</div>
-                        <div class="description simple-article size-2">1st, new york, usa</div>
+                        <div class="description simple-article size-2">3 ILUPEJU WAY, IDUMOTA, LAGOS</div>
                     </div>
                 </div>
                 <div class="col-sm-3">
@@ -68,9 +68,9 @@
                         <img class="icon" src="img/icon-23.png" alt="">
                         <div class="title h6">phone</div>
                         <div class="description simple-article size-2" style="line-height: 26px;">
-                            <a href="tel:+35235551238745">+3  (523) 555 123 8745</a>
+                            <a href="tel:+2349080897373">+2349080897373</a>
                             <br/>
-                            <a href="tel:+35235557585238">+3  (523) 555 758 5238</a>
+                            <a href="tel:+2349080897373">+2349080897373</a>
                         </div>
                     </div>
                 </div>
